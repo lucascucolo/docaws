@@ -6,19 +6,19 @@
 <summary>Semana 1:</summary>
 <br>
 
-##Dia 1
+## Dia 1
 > <p> Revisão geral da plataforma AWS e compreender os serviços básicos, como EC2, S3 e RDS </p>
--
+<br>
 > <p> A Amazon Web Services (AWS) é uma plataforma de computação em nuvem que oferece uma ampla variedade de serviços de infraestrutura, plataforma e software. </p>
--
+<br>
 > EC2 (Amazon Elastic Compute Cloud) é um serviço de computação em nuvem que permite que os usuários configurem e gerenciem instâncias de máquinas virtuais. Com EC2, os usuários podem selecionar a configuração de hardware, sistema operacional e software adicional que melhor atenda às suas necessidades.
-=
+<br>
 > S3 (Amazon Simple Storage Service) é um serviço de armazenamento em nuvem que permite que os usuários armazenem, protejam e recuperem dados a qualquer momento, a partir de qualquer lugar na Internet.
--
+<br>
 > RDS (Amazon Relational Database Service) é um serviço de gerenciamento de banco de dados em nuvem que permite que os usuários criem, configurem, gerenciem e dimensionem bancos de dados relacionais com rapidez e facilidade. Com RDS, os usuários podem escolher o sistema de gerenciamento de banco de dados que melhor atenda às suas necessidades, como MySQL, Oracle ou Microsoft SQL Server.
--
+<br>
 > Estes são apenas alguns exemplos dos serviços básicos oferecidos pela AWS. A plataforma oferece uma ampla variedade de outros serviços, incluindo armazenamento de dados, análise, segurança, alicativos, Internet das coisas (IoT), inteligência artificial e muito mais.
--
+<br><br>
 Dia 2:
 Configuração de contas e recursos básicos em AWS
 Dia 3:
