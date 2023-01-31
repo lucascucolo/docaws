@@ -7,7 +7,7 @@
 <br>
 
 |Dia 1|
-|:-----:|
+|:-----|
 |Revisão geral da plataforma AWS e compreender os serviços básicos, como EC2, S3 e RDS|
 |A Amazon Web Services (AWS) é uma plataforma de computação em nuvem que oferece uma ampla variedade de serviços de infraestrutura, plataforma e software.|
 |EC2 (Amazon Elastic Compute Cloud) é um serviço de computação em nuvem que permite que os usuários configurem e gerenciem instâncias de máquinas virtuais. Com EC2, os usuários podem selecionar a configuração de hardware, sistema operacional e software adicional que melhor atenda às suas necessidades.|
