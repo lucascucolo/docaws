@@ -28,7 +28,7 @@
 
 <br>
 
-> Estes são apenas alguns exemplos dos serviços básicos oferecidos pela AWS. A plataforma oferece uma ampla variedade de outros serviços, incluindo armazenamento de dados, análise, segurança, alicativos, Internet das coisas (IoT), inteligência artificial e muito mais.
+> Estes são apenas alguns exemplos dos serviços básicos oferecidos pela AWS. A plataforma oferece uma ampla variedade de outros serviços, incluindo armazenamento de dados, análise, segurança, alicativos, Internet das coisas (IoT), inteligência artificial e muito mais.x
 
 <br>
 
