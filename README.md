@@ -22,7 +22,9 @@ Dia 4:
 Revisão e prática dos conceitos estudados até o momento
 </details>
 
-Semana 2:
+<details open>
+<summary>Semana 2:</summary>
+<br>
 Dia 1:
 Compreender VPC e sub-redes
 Dia 2:
@@ -33,7 +35,11 @@ Dia 4:
 Configurar e usar ELB e Auto Scaling
 Dia 5:
 Revisão e prática dos conceitos estudados até o momento
-Semana 3:
+</details>
+
+<details open>
+<summary>Semana 3:</summary>
+<br>
 Dia 1:
 Compreender e usar RDS e DynamoDB
 Dia 2:
@@ -44,7 +50,11 @@ Dia 4:
 Configurar e usar S3
 Dia 5:
 Revisão e prática dos conceitos estudados até o momento
-Semana 4:
+</details>
+
+<details open>
+<summary>Semana 4:</summary>
+<br>
 Dia 1:
 Compreender e usar CloudWatch e CloudTrail
 Dia 2:
