@@ -1,4 +1,7 @@
 #Cronograma de Estudo para Certificação AWS Certified Solutions Architect - Associate
+
+<div class="tip" markdown="1">Have **fun!**</div>
+
 <details open>
 <summary>Semana 1:</summary>
 <br>
